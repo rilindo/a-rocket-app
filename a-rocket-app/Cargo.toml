@@ -1,0 +1,10 @@
+[package]
+name = "a-rocket-app"
+version = "0.1.0"
+authors = ["Rilindo Foster <rilindo@monzell-labs.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.6"
